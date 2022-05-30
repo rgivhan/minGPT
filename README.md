@@ -1,4 +1,4 @@
-# minGPT
+# minGPT with Synthesizer Attention
 
 Andrej Kaparthy's minGPT model buit in PyTorch. Two types of attention are available for use in the model: a standard masked multi-headed self attention or a Synthesizer self attention. The attention classes are found in attention.py. 
 
